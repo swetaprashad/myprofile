@@ -23,7 +23,7 @@ My favourite hobby is learning languages as I am currently studying Spanish 1 th
 
 <h2>Ideal Job</h2>
 
-<img src="idealjob.jpg">
+<img src="idealjob.png">
 
 <h3>Description of Ideal Job</h3>
 
