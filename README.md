@@ -1,6 +1,6 @@
 <h1>My Profile</h1>
 
-<img src="/Documents/IT images/Sweta Prashad.png" alt="Sweta Prashad" width="1000" height="1500">
+<img src="Sweta Prashad.jpg/Sweta Prashad.jpg">
 
 <h2>Personal Information</h2>
 
