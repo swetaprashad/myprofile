@@ -54,7 +54,7 @@ My favourite hobby is learning languages as I am currently studying Spanish 1 th
 
 <h2>3 tests on learning styles</h2>
 
-<img src="Myerbriggs.png">
+<img src="Myersbriggs.png">
 
 <img src="ipip.png">
 
