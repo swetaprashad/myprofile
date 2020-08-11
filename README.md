@@ -54,11 +54,11 @@ My favourite hobby is learning languages as I am currently studying Spanish 1 th
 
 <h2>3 tests on learning styles</h2>
 
-<img src="Myerbriggs.jpg">
+<img src="Myerbriggs.png">
 
-<img src="ipip.jpg">
+<img src="ipip.png">
 
-<img src="learningstyle.jpg">
+<img src="learningstyle.png">
 
 <p>These test results show me that I am an observant, extroverted and auditory learner – as I always ensure I make others feel comfortable in new situations, talk to people frequently, and learn by listening to others tell me. These learning styles will potentially affect me positively and negatively in a team because I am able to see and learn, however if someone doesn’t tell me properly to begin with and make a mistake, I can possibly take that to heart and I tend to blame myself. However, being extroverted will help me in asking questions if I don’t understand something so I avoid making mistakes. When forming a team, I need to consider all of these strengths/weaknesses I have to enable a smooth-running team.<p>
 
