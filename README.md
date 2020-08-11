@@ -23,7 +23,7 @@ My favourite hobby is learning languages as I am currently studying Spanish 1 th
 
 <h2>Ideal Job</h2>
 
-<img src="/Documents/IT images/ideal job.png" alt="Ideal Job" width="948" height="550">
+<img src="idealjob.jpg">
 
 <h3>Description of Ideal Job</h3>
 
@@ -54,11 +54,11 @@ My favourite hobby is learning languages as I am currently studying Spanish 1 th
 
 <h2>3 tests on learning styles</h2>
 
-<img src="/Documents/IT images/Myers-Briggs Type Indicator Test.png" alt="Myers-Briggs Type Indicator Test" width="1158" height="726">
+<img src="Myerbriggs.jpg">
 
-<img src="/Documents/IT images/IPIP Big Five Factor Markers.png" alt="IPIP Big Five Factor Markers" width="1686" height="892">
+<img src="ipip.jpg">
 
-<img src="/Documents/IT images/What is your learning style? .png" alt="What is your learning style?" width="1466" height="1226">
+<img src="learningstyle.jpg">
 
 <p>These test results show me that I am an observant, extroverted and auditory learner – as I always ensure I make others feel comfortable in new situations, talk to people frequently, and learn by listening to others tell me. These learning styles will potentially affect me positively and negatively in a team because I am able to see and learn, however if someone doesn’t tell me properly to begin with and make a mistake, I can possibly take that to heart and I tend to blame myself. However, being extroverted will help me in asking questions if I don’t understand something so I avoid making mistakes. When forming a team, I need to consider all of these strengths/weaknesses I have to enable a smooth-running team.<p>
 
